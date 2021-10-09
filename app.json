@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Mobile-App",
+    "slug": "Mobile-App",
+    "version": "1.0.0",
+    "sdkVersion": "42.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Mobile-App"
+}
